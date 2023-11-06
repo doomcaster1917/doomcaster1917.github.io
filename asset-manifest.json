@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0857f1e.css",
+    "main.js": "/static/js/main.23b07fbd.js",
+    "static/media/big_circle.png": "/static/media/big_circle.26f661bcd331bdb1741c.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/post-1.jpg": "/static/media/post-1.0e6c122c0563422d47f5.jpg",
+    "static/media/Sid.png": "/static/media/Sid.b37fc85857c84550298d.png",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/crowd_2.png": "/static/media/crowd_2.0cca176941d949cf28c4.png",
+    "static/media/boxes_small_pic.png": "/static/media/boxes_small_pic.f53f0f92432915ca4119.png",
+    "static/media/crowd_1.png": "/static/media/crowd_1.0718c1d4fb5889a4aaf2.png",
+    "static/media/add_image.png": "/static/media/add_image.7cc90d9fc1a7ea17f030.png",
+    "static/media/empty_user_avatar.png": "/static/media/empty_user_avatar.02ec153c132f9006b551.png",
+    "static/media/helveticaneuecyr_black.otf": "/static/media/helveticaneuecyr_black.be72df95ffe32d24ff56.otf",
+    "static/media/helveticaneuecyr_roman.otf": "/static/media/helveticaneuecyr_roman.84fb498ef9ef3d096f71.otf",
+    "index.html": "/index.html",
+    "main.d0857f1e.css.map": "/static/css/main.d0857f1e.css.map",
+    "main.23b07fbd.js.map": "/static/js/main.23b07fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0857f1e.css",
+    "static/js/main.23b07fbd.js"
+  ]
+}
